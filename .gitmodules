@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Leeds-SE-Project-Team/backend.git
+[submodule "web"]
+	path = web
+	url = https://github.com/Leeds-SE-Project-Team/web.git
+[submodule "app"]
+	path = app
+	url = https://github.com/Leeds-SE-Project-Team/app.git
